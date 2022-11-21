@@ -2,13 +2,13 @@
 
 × × × × × × × × × × × × × × × × × × 
 
- ◇ Hi, I'm @SacredMilkOG ✌ ◇ 
+ ◇  Hi, I'm @SacredMilkOG  ✌  ◇ 
 
 × × × × × × × × × × × × × × × × × × 
 
 
 
-  👀 Interests 👀 
+  > Interests 👀 
 
     ◇ Gaming 
 
@@ -16,13 +16,13 @@
 
 
 
-  🌱 Currently Learning 🌱 
+  > Currently Learning 🌱 
 
     ◇ Exploring/Studying the functions of the PSPSDK
 
 
 
-  💞️ Looking To Collaborate On 💞️ 
+  > Looking To Collaborate On 💞️ 
 
     ◇ Learning some basic code 
 
@@ -30,7 +30,7 @@
   
 
 
-  📫  Reach Me @ 👇  📫 
+  > Reach Me @ Here 📫 
 
     ◇ Reddit = SacredMilk_OG 
 
@@ -43,9 +43,9 @@
 × × × × × × × × × × × × × × × × × × × 
 
 
-   ++  Feel free to hit me up 🌌 ✌ 
+   Feel free to hit me up 🌌 ✌ 
 
-        ++  Sacred 
+        --- Sacred 
 
 × × × × × × × × × × × × × × × × × × × 
 
