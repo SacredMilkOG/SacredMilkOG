@@ -1,53 +1,30 @@
-21.11.2022 
+### SacredMilkOG - GitHub 
+### Last Updated: MAR.11.2025 
+ 
+    Contact Details: (N/A)
+ 
+#################################### 
+##    !! UNDER CONSTRUCTION !!    ## 
+#################################### 
 
-× × × × × × × × × × × × × × × × × × 
+Just a novice finding their way through collaboration and some self-education.
 
- ◇  Hi, I'm @SacredMilkOG  ✌  ◇ 
+### Interests: 
+- GECK (FO3/FNV) 
+- Human-AI UX 
+- LEFT 4 DEAD 
+- PlayStation Portable 
+- PowerShell
+- TempAR 
+- Twisted Metal (2)
 
-× × × × × × × × × × × × × × × × × × 
-
-
-
-  > Interests 👀 
-
-    ◇ Gaming 
-
-    ◇ Sony PlayStation Portable 
-
-
-
-  > Currently Learning 🌱 
-
-    ◇ Exploring/Studying the functions of the PSPSDK
-
-
-
-  > Looking To Collaborate On 💞️ 
-
-    ◇ Learning some basic code 
-
-    ◇ Reviving old sources for the Sony PSP 
-  
+### Projects: 
+- Bug Investigation: (current)
+- Fallout 3 Save Crash Investigation
+- Mod Packaging Utility 
+- Twisted Metal 2 Cheat Experiments 
 
 
-  > Reach Me @ Here 📫 
-
-    ◇ Reddit = SacredMilk_OG 
-
-    ◇ TextNow = +1 401 227 7369 
-
-    ◇ Twitter = SacredMilkOG 
-
-
-
-× × × × × × × × × × × × × × × × × × × 
-
-
-   Feel free to hit me up 🌌 ✌ 
-
-        --- Sacred 
-
-× × × × × × × × × × × × × × × × × × × 
 
 <!---
 SacredMilkOG/SacredMilkOG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
